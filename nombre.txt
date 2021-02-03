@@ -1,2 +1,2 @@
 shutdown -s-t
-configurar esto 
+configurar esto porque está mal
